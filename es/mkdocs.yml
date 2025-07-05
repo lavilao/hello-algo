@@ -14,6 +14,7 @@ version: 1.0.0
 # Configuración
 # (hereda el tema y plugins del mkdocs.yml principal)
 theme:
+  custom_dir: ../build/overrides
   language: es
   font:
     text: Roboto
