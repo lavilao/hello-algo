@@ -1,5 +1,5 @@
 #set document(author: "krahets", title: "Hello 算法")
-#set text(font: "Noto Sans", lang: "zh")
+#set text(lang: "zh")
 #set par(justify: true)
 
 #outline()
@@ -338,6 +338,8 @@ Recomiendo encarecidamente este excelente libro a todos los lectores.
 
 #strong[Un sincero agradecimiento a mis padres, cuyo continuo apoyo y
 aliento me han permitido hacer este interesante trabajo];.
+
+#bibliography("refs.bib")
 = Cómo leer
 <cómo-leer>
 !!! tip
